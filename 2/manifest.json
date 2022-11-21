@@ -1,6 +1,6 @@
 {
-  "name": "egui Template PWA",
-  "short_name": "egui-template-pwa",
+  "name": "shap.ly 2-player bargaining",
+  "short_name": "2P bargains",
   "icons": [
     {
       "src": "./icon-256.png",
